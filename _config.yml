@@ -2,21 +2,45 @@
 title:               Ritesh Dhemla
 tagline:             ''
 description:         ''
+include:             ['_pages']
+exclude:             ['_includes/notes_graph.json']
 url:                 "https://riteshdhemla.github.io"
 baseurl:             ''
-paginate:            5
+
+# If you are using a host that cannot resolve URLs that do
+# not end with .html (such as Neocities), set this to 'true'.
+use_html_extension:  false
+
+# Set to `true` to open non-internal links in new tabs, or
+# set to `false` to open non-internal links in current tab.
+open_external_links_in_new_tab: true
+
+# Set to `true` to replace tweet URLs with Twitter embeds.
+# Note that doing so will negatively the reader's privacy
+# as their browser will communicate with Twitter's servers.
+embed_tweets: false
+
 permalink:           pretty
+relative_permalinks: false
 
-# About/contact
-author:
-  name:              Ritesh Dhemla
-  url:               https://github.com/riteshdhemla
-  email:             riteshdhemla@gmail.com
-
-# Gems
 plugins:
-  - jekyll-paginate
+  - jekyll-last-modified-at
 
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+collections:
+  notes:
+    output: true
+    permalink: /:slug
+
+defaults:
+  - scope:
+      path: "**/*"
+    values:
+      layout: "default"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"
