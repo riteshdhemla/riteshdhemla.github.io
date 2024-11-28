@@ -1,18 +1,27 @@
-# Quartz v4
+# Personal Blog using Quartz
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A modern digital garden built with Quartz, for organized thought.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## 📚 Content Structure
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+The blog contains various notes and thoughts organized in the following categories:
+- Machine Learning
+- Computer Science
+- Mathematics
+- Thoughts on Future
+- My Philosophy
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 📁 Directory Structure
 
-## Sponsors
+```bash
+.
+├── content/          # All blog content
+    ├── books/       # Personal book notes and thoughts
+    └── tech/        # Summary of tech Blog posts
+```
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Publish Content
+
+```
+npx quartz sync
+```
