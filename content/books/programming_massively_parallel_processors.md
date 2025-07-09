@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:05:55 GMT+0530 (India Standard Time)
 title: Programming Massively Parallel Processors
 subtitle: A Hands-on Approach, Third Edition
 author: David Kirk, Wen-mei Hwu
@@ -21,7 +22,6 @@ tags:
   - book
   - cuda
 status: Read
-draft: true
 ---
 ** Summary **
 

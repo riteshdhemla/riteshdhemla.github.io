@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:06:01 GMT+0530 (India Standard Time)
 title: Pattern Recognition and Machine Learning
 subtitle: 
 author: Christopher M. Bishop
@@ -18,5 +19,4 @@ isbn13: 9781493938438
 total_pages: 738
 pages_read: 0
 status: To Read
-draft: true
 ---

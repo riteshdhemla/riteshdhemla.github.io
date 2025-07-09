@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:06:15 GMT+0530 (India Standard Time)
 title: Elements of Programming Interviews
 authors: Adnan Aziz,Tsung-Hsien Lee,Amit Prakash
 category: Business & Economics
@@ -16,5 +17,4 @@ status: To Read
 tags:
   - book
   - programming
-draft: true
 ---

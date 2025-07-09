@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:06:18 GMT+0530 (India Standard Time)
 title: Designing Machine Learning Systems
 authors: Chip Huyen
 category: Computers
@@ -13,5 +14,4 @@ link: https://books.google.com/books/about/Designing_Machine_Learning_Systems.ht
 previewLink: http://books.google.co.in/books?id=EzhwEAAAQBAJ&printsec=frontcover&dq=designing_machine_learning_systems&hl=&as_pt=BOOKS&cd=2&source=gbs_api
 pages_read: 0
 status: To Read
-draft: true
 ---

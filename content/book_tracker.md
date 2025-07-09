@@ -1,5 +1,5 @@
 ---
-draft: true
+lastSync: Sat May 03 2025 15:06:39 GMT+0530 (India Standard Time)
 ---
 ```dataview
 table 

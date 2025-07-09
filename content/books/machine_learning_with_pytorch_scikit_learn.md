@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:06:09 GMT+0530 (India Standard Time)
 title: Machine Learning with PyTorch and Scikit-Learn
 subtitle: Develop machine learning and deep learning models with Python
 author: Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili
@@ -21,5 +22,4 @@ tags:
 total_pages: 775
 pages_read: 0
 status: To Read
-draft: true
 ---

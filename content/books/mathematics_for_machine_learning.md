@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:06:06 GMT+0530 (India Standard Time)
 title: Mathematics for Machine Learning
 authors: Marc Peter Deisenroth,A. Aldo Faisal,Cheng Soon Ong
 category: Computers
@@ -18,5 +19,4 @@ tags:
   - book
   - machine_learning
 status: To Read
-draft: true
 ---

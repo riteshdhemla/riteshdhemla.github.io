@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:05:42 GMT+0530 (India Standard Time)
 title: Start With Why
 subtitle: The Inspiring Million-Copy Bestseller That Will Help You Find Your Purpose
 author: Simon Sinek
@@ -18,5 +19,4 @@ isbn10: 241958237
 total_pages: 269
 pages_read: 269
 status: Read
-draft: true
 ---

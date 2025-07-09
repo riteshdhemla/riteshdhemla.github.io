@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:06:12 GMT+0530 (India Standard Time)
 title: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
 subtitle: Concepts, Tools, and Techniques to Build Intelligent Systems
 author: Aurélien Géron
@@ -21,5 +22,4 @@ status: To Read
 tags:
   - book
   - machine_learning
-draft: true
 ---

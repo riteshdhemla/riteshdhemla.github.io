@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:05:58 GMT+0530 (India Standard Time)
 title: How to Unleash the Power of Your Subconscious Mind
 subtitle: A 52-week Guide
 author: Joseph Murphy
@@ -19,5 +20,4 @@ total_pages: 294
 pages_read: 294
 tags:
   - book
-draft: true
 ---

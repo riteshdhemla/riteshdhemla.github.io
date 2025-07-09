@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:05:39 GMT+0530 (India Standard Time)
 title: The Kaggle Book
 subtitle: Data analysis and machine learning for competitive data science
 author: Konrad Banachewicz, Luca Massaron
@@ -17,5 +18,4 @@ isbn13: 9781801812214
 isbn10: 1801812217
 pages_read: 0
 status: To Read
-draft: true
 ---

@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:06:21 GMT+0530 (India Standard Time)
 title: Deep Learning with Python
 authors: Francois Chollet
 category: Computers
@@ -18,5 +19,4 @@ status: To Read
 tags:
   - book
   - machine_learning
-draft: true
 ---

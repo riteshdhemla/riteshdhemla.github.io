@@ -1,4 +1,5 @@
 ---
+lastSync: Sat May 03 2025 15:05:53 GMT+0530 (India Standard Time)
 title: Reinforcement Learning, second edition
 subtitle: An Introduction
 authors: Richard S. Sutton,Andrew G. Barto
@@ -18,5 +19,4 @@ pages_read: 0
 tags:
   - book
   - machine_learning
-draft: true
 ---
